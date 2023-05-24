@@ -1,4 +1,4 @@
-# Coding Test Front End Developer Intern and Coding Test Back End Developer Intern Flinpan.id
+# Coding Test Front End Developer Intern and Coding Test Back End Developer Intern Finplan.id
 
 Nama : Annisa Maulida Rahma
 Jurusan : Teknik Informatika
