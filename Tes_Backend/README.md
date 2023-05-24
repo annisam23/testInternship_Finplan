@@ -35,8 +35,8 @@ Akses ke PHPMYADMIN Untuk mengexport SQL ,sebelumnya jangan lupa untuk membuat d
      
 ## Hasil 
 ![no1](https://github.com/annisam23/testInternship_Finplan/blob/main/Tes_Backend/SS/1a.png)
-![no2](https://drive.google.com/file/d/18ElyFBvxv4XTFSiwrdKW7AYiQ10NG5TU/view?usp=sharing)
-![no3](https://drive.google.com/file/d/108v6fdIdk9IBF1MnE_2P4l9BNRDeEcRB/view?usp=sharing)
-![no4](https://drive.google.com/file/d/1ym5iV3GTvY79ZjCY-OJsZN4DFHRy5vlq/view?usp=sharing)
+![no2](https://github.com/annisam23/testInternship_Finplan/blob/main/Tes_Backend/SS/2.png)
+![no3](https://github.com/annisam23/testInternship_Finplan/blob/main/Tes_Backend/SS/3.png)
+![no4](https://github.com/annisam23/testInternship_Finplan/blob/main/Tes_Backend/SS/4.png)
 
 ##Credits \*[Annisa Maulida](https://instagram.com/_maulidaaar)
