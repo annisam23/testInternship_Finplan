@@ -34,7 +34,7 @@ Akses ke PHPMYADMIN Untuk mengexport SQL ,sebelumnya jangan lupa untuk membuat d
      localhost\\phpmyadmin
      
 ## Hasil 
-![no1](https://drive.google.com/file/d/11-l4oDE8MVPnQcI5SX3Lo7DrP_C7u85g/view?usp=sharing)
+![no1](https://github.com/annisam23/testInternship_Finplan/blob/main/Tes_Backend/SS/1a.png)
 ![no2](https://drive.google.com/file/d/18ElyFBvxv4XTFSiwrdKW7AYiQ10NG5TU/view?usp=sharing)
 ![no3](https://drive.google.com/file/d/108v6fdIdk9IBF1MnE_2P4l9BNRDeEcRB/view?usp=sharing)
 ![no4](https://drive.google.com/file/d/1ym5iV3GTvY79ZjCY-OJsZN4DFHRy5vlq/view?usp=sharing)
