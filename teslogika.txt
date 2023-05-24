@@ -1,0 +1,7 @@
+Nama 		: Annisa Maulida Rahma
+
+No.1 = tidak menggunakan mesin pencarian tetapi melihat PDF semester 2
+No.2 = query search yang digunakan yaitu substr_count()
+No.3 = query search yang digunakan yaitu preg_match
+No.4 = 
+No.5 = 
