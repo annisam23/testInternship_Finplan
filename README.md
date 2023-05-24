@@ -1,7 +1,8 @@
 # Coding Test Front End Developer Intern and Coding Test Back End Developer Intern Finplan.id
 
-Nama : Annisa Maulida Rahma
-Jurusan : Teknik Informatika
+- Nama : Annisa Maulida Rahma
+- Email : annisamrahma23@gmail.com
+- no-HP: 085156576824
 
 ## Tech
 
