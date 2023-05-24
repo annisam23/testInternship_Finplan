@@ -1,7 +1,18 @@
 Nama 		: Annisa Maulida Rahma
 
+BACKEND DAN FRONTEND
+Tes Logika
+
 No.1 = tidak menggunakan mesin pencarian tetapi melihat PDF semester 2
 No.2 = query search yang digunakan yaitu substr_count()
 No.3 = query search yang digunakan yaitu preg_match
 No.4 = tidak menggunakan mesin pencarian tetapi melihat PDF semester 2
 No.5 =  Mencari referensi serupa
+
+
+Backend 
+-Ditiap nomernya saya melihat/mereview PDF Mata kuliah Basis data Semester 2
+
+FrontEnd 
+ - https://www.figma.com/file/GLFNrXxAnEiwwvzbBl0omX/AnnisaMaulidaRahma?type=design&node-id=0%3A1&t=vHtCbKUPKBr2NGGH-1
+ 
