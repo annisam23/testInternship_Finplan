@@ -1,5 +1,3 @@
-# testInternship_Finplan
-
 # Coding Test Front End Developer Intern and Coding Test Back End Developer Intern Flinpan.id
 
 Nama : Annisa Maulida Rahma
