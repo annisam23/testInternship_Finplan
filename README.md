@@ -14,15 +14,6 @@ Jurusan : Teknik Informatika
 - PHP
 - XAMPP
 
-## Folder structure
-
-├── no1.php
-├── no2.php
-├── no3.php
-├── no4.php
-├── no5.php
-├── app.md
-
 ## Installation
 
 Pindahkan semua file ke dalam folder
